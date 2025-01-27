@@ -1,8 +1,8 @@
-﻿# Verzeichnisse und Dokumente
+# Verzeichnisse und Dokumente
 
 Links in der Menüleiste findet man den Menüpunkt *Dokumente*. Ein Klick darauf öffnet das Untermenü mit den Einträgen *Verzeichnisse* und *Tags*.
 
-*Hinweis*: Da viele Kolltool-User\*innen mehreren Teams angehören, ist es wichtig, Verzeichnisse und Dokumente eindeutig zu benennen: statt „Aktuelles“ also beispielsweise „RR – Aktuelles“ und „OE – Protokolle“ und „RR – Protokolle“ statt „Protokolle“. Das erleichtert das Auffinden.
+*Hinweis*: Da viele Kolltool-User\*innen mehreren Teams angehören, ist es wichtig, Verzeichnisse und Dokumente eindeutig zu benennen. Statt „Aktuelles“ also beispielsweise „RR – Aktuelles“ und „OE – Protokolle“ und „RR – Protokolle“ statt „Protokolle“. Das erleichtert das Auffinden.
 
 ## Verzeichnisse
 

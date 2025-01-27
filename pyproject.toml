@@ -1,0 +1,22 @@
+[project]
+name = "vflldoku"
+version = "0.1.0"
+description = "Repo for VFLL Dokus"
+readme = "README.md"
+authors = [
+    { name = "scienceuli", email = "uk@science-and-more.de" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "mkdocs>=1.6.1",
+    "mkdocs-glightbox>=0.4.0",
+    "mkdocs-material>=9.5.50",
+    "pillow>=11.1.0",
+]
+
+[project.scripts]
+vflldoku = "vflldoku:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

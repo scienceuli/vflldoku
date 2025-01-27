@@ -1,11 +1,11 @@
 # Metadata
-site_name: Kolltool Docs
-site_url: https://kolltooldocs.vfll.de
+site_name: Vfll Docs
+site_url: https://doku.vfll.de
 site_author: Ulrich Kilian 
 
 # Repository
-repo_name: scienceuli/vfllwiki
-repo_url: https://github.com/scienceuli/vfllwiki
+repo_name: scienceuli/vflldoku
+repo_url: https://github.com/scienceuli/vflldoku
 
 # Navigation
 nav: 

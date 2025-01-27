@@ -17,6 +17,6 @@ dependencies = [
 [project.scripts]
 vflldoku = "vflldoku:main"
 
-[build-system]
-requires = ["hatchling"]
-build-backend = "hatchling.build"
+[tool.uv.sources]
+mkdocs-material = { git = "https://github.com/squidfunk/mkdocs-material" }
+

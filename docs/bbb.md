@@ -30,7 +30,7 @@ Anschließend tritt man dem Meeting durch Anklicken von *Beitreten* bei; die Far
 
 Ja, das ist möglich. Jede Meeting-Kachel zeigt an, ob der Gastzugang aktiviert ist \(*Gastzugang: ja*\) oder nicht \(*Gastzugang: nein*\). Der Status kann durch Anklicken von *Ändern* umgeschaltet werden.
 
-![Meeting-Kachel im Detail](bbb_meeting_details.png)
+![Meeting-Kachel im Detail](attachments/bbb_meeting_details.png)
 
 Gäste können nun per Code oder per Link an einem Meeting teilnehmen:
 
@@ -52,7 +52,7 @@ Ein BigBlueButton-Meeting kann innerhalb von BigBlueButton beendet werden:
 
 Anklicken von ⋮ öffnet dieses Menü
 
-![Meeting beenden](stop_bbb.png)
+![Meeting beenden](attachments/stop_bbb.png)
 
 mit den Optionen *Konferenz verlassen* und *Konferenz beenden*.
 
@@ -60,12 +60,12 @@ Falls sich die Meetingraum-Kachel nach Beenden einer Konferenz nicht rot färbt,
 
 ## Meetings planen
 
-Über den Button ![BBB-Kalender-Icon](button_plan_bbb.png) lassen sich Meetings planen. Jedes geplante Meeting besteht aus – Beginn (Datum und Uhrzeit) – Dauer (in Minuten) – Titel – Beschreibung (optional).
+Über den Button ![BBB-Kalender-Icon](attachments/button_plan_bbb.png) lassen sich Meetings planen. Jedes geplante Meeting besteht aus – Beginn (Datum und Uhrzeit) – Dauer (in Minuten) – Titel – Beschreibung (optional).
 
 Die geplanten Meetings werden zum vorgesehenen Startpunkt gestartet und automatisch nach der vorgesehenen Dauer beendet, falls sich keine Teilnehmer\*innen mehr im Meeting befinden. 
 Eine Übersicht der geplanten Meetings findet sich auf jeder Meeting-Kachel im Reiter *Kalender*. Dort können geplante Meetings auch geändert oder gelöscht werden.
 
-![Übersicht Meetings](meeting_calendar.png)
+![Übersicht Meetings](attachments/meeting_calendar.png)
 
 
 ## Weitere Informationen zu BBB
@@ -79,66 +79,66 @@ Auf ein paar Details wird im Folgenden eingegangen.
 
 Beim Eintritt in ein BBB-Meeting wird man zunächst gefragt, ob man der Konferenz mit Mikrofon beitreten oder nur zuhören möchte. 
 
-![BigBlueButton-Konferenz beitreten](bbb_konferenz_beitreten.png)
+![BigBlueButton-Konferenz beitreten](attachments/bbb_konferenz_beitreten.png)
 
 Um mit Webcambild am Meeting teilzunehmen, muss man nun die Kamera freigeben. Dazu klickt man auf das (noch durchgestrichene) Kamerasymbol in der Leiste unten und wählt dann die Option „Webcam freigeben“. Hier hat man auch die Möglichkeit, einen Hintergrund einzustellen.
 
-![Webcam-Freigabe](bbb_webcam-freigabe_1.png)
+![Webcam-Freigabe](attachments/bbb_webcam-freigabe_1.png)
 
-![Hintergrund einstellen](bbb_webcam-freigabe_2.png)
+![Hintergrund einstellen](attachments/bbb_webcam-freigabe_2.png)
 
 
 ### Die einzelnen Bereiche des BBB-Bildschirms
 
 In der **Menüleiste** links finden sich nehmen der Teilnehmendenliste die Bereiche Nachrichten \(Öffentlicher Chat\) und \(Geteilte\) Notizen.
 
-![BigBlueButton Menüleiste](bbb_menueleiste.png)
+![BigBlueButton Menüleiste](attachments/bbb_menueleiste.png)
 
 
 In der **Teilnehmerliste** werden alle Teilnehmenden in Form von Kacheln mit Namen angezeigt. Die Symbole geben an, wie jemand an dem Meeting teilnimmt: mit Mikrofon, nur zuhörend, mit Webcam.
 
-![Liste der Konferenzteilnehmer](bbb_teilnehmendenliste.png)
+![Liste der Konferenzteilnehmer](attachments/bbb_teilnehmendenliste.png)
 
 
 Der **Chat** ermöglicht zum einen Teilnehmenden mit Mikrofonproblemen die aktive Konferenzteilnahme, zum anderen eignet er sich zur Weitergabe von Links oder anderen Informationen, die im aktuellen Zusammenhang von Bedeutung sind.
 
-![Chat][Chatbeispiel](attachments/bbb_chat_beispiel.png)
+![Chatbeispiel](attachments/bbb_chat_beispiel.png)
 
 Speichern kann man den Chatverlauf über das Kontextmenü, das sich rechts oben hinter den drei Punkten verbirgt.
 
-![Chat speichern](bbb_chat_menu.png)
+![Chat speichern](attachments/bbb_chat_menu.png)
 
 Der Export ist nur als .txt möglich.
 
 Unter **Geteilte Notizen** können beispielsweise Diskussionsergebnisse, getroffene Vereinbarungen oder  Tagesordnungspunkte für die nächste Konferenz festgehalten werden.
 
-![Geteilte Notizen](bbb_geteilte-Notizen.png)
+![Geteilte Notizen](attachments/bbb_geteilte-Notizen.png)
 
 Hinter dem Pfeilsymbol oben rechts verbergen die Exportmöglichkeiten, die dann unten im Notizenfenster angezeigt werden.
 
-![Export geteilter Notizen](bbb_geteilte-notizen_export.png)
+![Export geteilter Notizen](attachments/bbb_geteilte-notizen_export.png)
 
 Im **Hauptfenster** ist die **Präsentationsfläche** zu sehen, die mit Klick auf den zweiten Button von rechts in der Fußleiste minimiert werden kann. 
 
-![Fußleiste des BigBlueButton-Bildschirms](bbb_fussleiste.png)
+![Fußleiste des BigBlueButton-Bildschirms](attachments/bbb_fussleiste.png)
  
 Hinter dem rechten Button in Buttongruppe in der Mitte verbirgt sich die **Bildschirmfreigabe**.
 
 Dafür benötigt man Präsentatorrechte. Alle Teilnehmenden können sich entweder mit Klick auf das Pluszeichen in der Fußleiste oder im Kontextmenü der Kachel. 
 
-![Zum Präsentator werden](bbb_praesentator_werden.png)
+![Zum Präsentator werden](attachments/bbb_praesentator_werden.png)
 
 Alternativ geht das über die Teilnehmerliste:
 
-![Über die Teilnehmerliste zum Präsentator werden][Präsentator_werden_Alternative](attachments/bbb_praesentator_werden_alternative.png)
+![Über die Teilnehmerliste zum Präsentator werden](attachments/bbb_praesentator_werden_alternative.png)
 
 Klickt man auf „Bildschirm freigeben“, erscheint folgendes Fenster:
 
-![Bildschirm freigeben](bbb_bildschirmfreigabe.png)
+![Bildschirm freigeben](attachments/bbb_bildschirmfreigabe.png)
 
 Hier kann man auswählen, was freigegeben werden soll und muss die Freigabe bestätigen.
 
-![Bildschirmteilung erlauben](bbb_bildschirm-teilen_erlauben.png)
+![Bildschirmteilung erlauben](attachments/bbb_bildschirm-teilen_erlauben.png)
 
 Wichtig: Es können nur Browserfenster freigegeben werden, keine Browseratabs.
 
@@ -148,26 +148,26 @@ Wichtig: Die Person, die die Umfrage stellt, kann an dieser Umfrage nicht teilne
 
 Klickt man auf „Umfrage starten“, öffnet sich das folgende Fenster:
 
-![Umfragetypen](bbb_umfragen_uebersicht.png)
+![Umfragetypen](attachments/bbb_umfragen_uebersicht.png)
 
 
 Wichtig ist das Feld „Teilnehmerantwort“. Standardmäßig sind die Umfragen nicht anonym. Über den Schieberegler kann das geändert werden.
 
-![Anonyme Umfragen](bbb_umfrage_teilnehmerantwort.png)
+![Anonyme Umfragen](attachments/bbb_umfrage_teilnehmerantwort.png)
 
 Der Umfragetyp Ja / Nein / Enthaltung lässt sich für Wahlen in den RG nutzen (nicht vergessen, die Teilnehmerantwort auf anonym zu setzen!).
 
 In dem folgenden Beispiel wurde danach gefragt, ob das KollTool nützlich ist.
 
-![Umfrage Ja, Nein, Enthaltung](bbb_umfrage_ja-nein-enthaltung.png)
+![Umfrage Ja, Nein, Enthaltung](attachments/bbb_umfrage_ja-nein-enthaltung.png)
 
 Sobald die Umfrage gestartet ist, erscheint folgendes Fenster:
 
-![Laufende Umfrage](bbb_umfrage_ja-nein-enthaltung_fertig.png)
+![Laufende Umfrage](attachments/bbb_umfrage_ja-nein-enthaltung_fertig.png)
 
 Ist die Umfrage abgeschlossen, kann das Ergebnis veröffentlicht werden. Es erscheint in der rechten unteren Ecke des Präsentationsfensters:
 
-![Umfrageergebnis anzeigen](bbb_umfrage_veroeffentlicht.png)
+![Umfrageergebnis anzeigen](attachments/bbb_umfrage_veroeffentlicht.png)
 
 
 ## Zoom Meetings

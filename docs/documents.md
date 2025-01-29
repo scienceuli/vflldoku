@@ -17,7 +17,7 @@ Auf dieser Seite kann man nun folgende Dinge tun:
 + ein Verzeichnis teilen
 + ein Verzeichnis mit Sternchen als *wichtig* kennzeichnen \(es erscheint dann im Dashboard unter „Meine Favoriten“\)
 + das Verzeichnis löschen
-![Übersicht Verzeichnisse](verzeichnis_uebersicht.png))
+![Übersicht Verzeichnisse](attachments/verzeichnis_uebersicht.png)
 
 
 ## Verzeichnis anlegen
@@ -31,7 +31,7 @@ Beim Klick auf *Verzeichnis anlegen* öffnet sich eine Eingabemaske mit drei Fel
 + Name \(des Verzeichnisses\),
 + Team \(dem das Verzeichnis gehören soll\) und
 + Beschreibung \(des Verzeichnisses\).
-![Verzeichnis anlegen](verzeichnis_anlegen.png))
+![Verzeichnis anlegen](attachments/verzeichnis_anlegen.png)
 
 Nach Ausfüllen der Felder klickt man auf *Anlegen* (unten links unter der Eingabemaske).
 
@@ -40,7 +40,7 @@ Daraufhin erscheint die Bestätigung, dass das Verzeichnis angelegt wurde.
 Darunter werden Name und Team des Verzeichnisses genannt, ob es mit anderen Teams geteilt ist und was die\*der Anlegende damit tun kann.
 
 Neben dem Namen des Verzeichnisses erscheint rechts ein Stiftsymbol. Ein Klick darauf öffnet eine Eingabemaske, in der der Name des Verzeichnisses und die Beschreibung geändert werden können. Das Team kann nicht geändert werden.
-![Verzeichnis bearbeiten](verzeichnis_editieren.png))
+![Verzeichnis bearbeiten](attachments/verzeichnis_editieren.png)
 
 Zudem werden oben 6 Buttons angezeigt für weitere Aktionen; von links nach rechts:
 
@@ -62,7 +62,7 @@ Ein Klick auf *Unterverzeichnis anlegen* öffnet die schon bekannte Eingabemaske
 Ein Klick auf diesen Button öffnet eine Liste mit allen vorhandenen Teams -- auch der Teams, in denen man selbst nicht Mitglied ist. Man kann sein Verzeichnis also auch mit diesen teilen.
 
 Man setzt nun ein Häkchen an das Team oder die Teams, mit denen man sein Verzeichnis teilen will und klickt auf *Teilen*.
-![Verzeichnis teilen](Anleitung_Doks_5.png))
+![Verzeichnis teilen](attachments/Anleitung_Doks_5.png)
 
 Es erscheint die Bestätigung des Teilens und eine Beschreibung:
 
@@ -71,10 +71,10 @@ Es erscheint die Bestätigung des Teilens und eine Beschreibung:
 + Feststellung, dass das Team, mit dem das Verzeichnis geteilt wurde, die Dokumente nicht editieren kann
 + Button *Schutz aufheben*, mit dem dem anderen Teams das Editieren von Dokumenten im geteilten Verzeichnis erlaubt werden kann
 
-![Geteiltes Verzeichnis](Anleitung_Doks_6.png))
+![Geteiltes Verzeichnis](attachments/Anleitung_Doks_6.png)
 
 Klickt man auf *Schutz aufheben*, erscheint *kann Dokumente editieren* und der Button heißt nun *Schützen*. Ein Klick darauf verbietet dem anderem Team das Editieren wieder.
-![Bearbeitungsschutz aufheben](Anleitung_Doks_7.png))
+![Bearbeitungsschutz aufheben](attachments/Anleitung_Doks_7.png)
 
 Ein Klick auf den grauen Button ganz unten *zurück zum Verzeichnis* bringt einen (ja, tatsächlich) zurück zum Verzeichnis.
 
@@ -88,7 +88,7 @@ Beim Klick auf *Dokument anlegen* erscheint eine Eingabemaske mit den Feldern:
 + Inhalt
 
 Unter *Inhalt* wird der Text angelegt und mithilfe der angezeigten Funktionen formatiert.
-![Dokument anlegen](dokument_anlegen.png))
+![Dokument anlegen](attachments/dokument_anlegen.png)
 
 Ein Klick auf *Speichern* unten links speichert das Dokument im Verzeichnis, das fertige Dokument wird angezeigt.
 
@@ -107,7 +107,7 @@ Die letzten beiden Punkte sind Nutzer\*innen-spezifisch
 
 + Kann ich als Nutzer\*in es lesen?
 + Kann ich als Nutzer\*in es editieren?
-![Dokumentdetails](Anleitung_Doks_10.png))
+![Dokumentdetails](attachments/Anleitung_Doks_10.png)
 
 Unter dieser Liste finden sich 4 Buttons:
 
@@ -123,7 +123,7 @@ Unter dieser Liste finden sich 4 Buttons:
 Oft möchte man gar nicht unbedingt Texte direkt im Eingabefeld eingeben, sondern fertige Dateien (pdf oder Text-Dateien) im KollTool ablegen, z. B. Protokolle von Sitzungen.
 
 In diesem Fall legt man ein Dokument mit einer kurzen Beschreibung der Datei, um die es geht; an. Die Datei selbst fügt man dann als Attachment an. Die Buttons zum Anfügen von Attachments oder zum Herunterladen bereits vorhandener Attachments finden sich unübersehbar unter dem Dokument.
-![Attachmentbeispiel](dokumente_attachments_beispiel.png))
+![Attachmentbeispiel](attachments/dokumente_attachments_beispiel.png)
 
 Die Liste der Attachments zu einem KollTool-Dokument enthält mehrere Spalten: Nummer, Dateiname, Hochladedatum und hochladende Person, Typ sowie Aktion.
 
@@ -134,8 +134,8 @@ Für .dotx-Dateien kommen zwei weitere Möglichkeiten dazu: Dokument in die Next
 ### Kommentare zu Dokumenten
 
 Unterhalb dieser Buttons findet sich noch ein Kommentarfeld. Hier können Teammitglieder Kommentare zum Dokument abgeben. Ein Klick auf *Kommentar hinzufügen* speichert den Kommentar beim Dokument ab. Er wird dann angezeigt mit Inhalt, Autor\*in und Veröffentlichungsdatum und es öffnet sich ein Textfeld für den nächsten Kommentar. Eigene Kommentare können durch Anklicken von *löschen* wieder gelöscht werden.
-![Kommentare zu Dokumenten](Anleitung_Doks_13.png))
-![Kommentar löschen](dokumente_kommentar-loeschen.png))
+![Kommentare zu Dokumenten](attachments/Anleitung_Doks_13.png)
+![Kommentar löschen](attachments/dokumente_kommentar-loeschen.png)
 
 
 ### Verschieben von Dokumenten in andere Verzeichnisse
@@ -159,16 +159,16 @@ Dokumente können mit Tags charakterisiert werden. Anhand dieser Tags können si
 Unter dem Menüpunkt *Tags* (Menüleiste links, erscheint im Untermenü nach Anklicken von *Dokumente*) kann man sich die vorhandenen Tags auflisten lassen.
 
 Neben den Tags erscheint das Team \(oder die Teams\), die Zugriff auf diese Tags haben. Möchte man einen vorhandenen Tag nutzen, klickt man auf das Stiftsymbol und kreuzt in der erscheinenden Liste das eigene Team an.
-![Tag-Liste](dokumente_tags.png))
+![Tag-Liste](attachments/dokumente_tags.png)
 
 Ist von den vorhandenen Tags keiner für den eigenen Zweck geeignet, gibt es unterhalb der Liste die Möglichkeit, einen neuen Tag anzulegen.
-![Tag anlegen](dokumente_tags_anlegen.png))
+![Tag anlegen](attachments/dokumente_tags_anlegen.png)
 
 Man gibt dem neuen Tag einen Namen, eine Beschreibung und klickt die Teams an, die ihn nutzen sollen. Die genannten Punkte sind verpflichtend.
 
 Beim Anlegen eines Dokuments oder auch beim Editieren eines vorhandenen Dokuments werden einem die Tags angezeigt, die vom eigenen Team genutzt werden können. Man kann nun die gewünschten Tags anklicken und nach dem Speichern bzw. dem Update werden diese rechts neben dem Dokument angezeigt.
-![Tagauswahl](dokument_anlegen_tag-auswahl.png))
-![Dokument mit Tags](dokument_mit_tags.png))
+![Tagauswahl](attachments/dokument_anlegen_tag-auswahl.png)
+![Dokument mit Tags](attachments/dokument_mit_tags.png)
 
 
 ## Arbeiten mit Dokumenten im KollTool

@@ -10,7 +10,7 @@ Links in der Menüleiste findet man den Menüpunkt *Aufgaben*. Ein Klick
 darauf öffnet eine Seite, auf der die Aufgabenlisten der eigenen Teams
 angezeigt werden, sortiert nach den Teams.
 
-![](Anleitung_Aufg_1.png){: loading=lazy width="100%" }
+![](attachments/Anleitung_Aufg_1.png){: loading=lazy width="100%" }
 
 Die Zahlen in den blauen Kreisen rechts neben den Aufgabenlisten geben
 die Anzahl der in den Listen vorhandenen Aufgaben an.
@@ -30,14 +30,14 @@ selbst.
 Über den Button *Anlegen* wird die neue Aufgabenliste erstellt.
 
 
-![](Anleitung_Aufg_2.png){: loading=lazy width="100%" }
+![](attachments/Anleitung_Aufg_2.png){: loading=lazy width="100%" }
 
 ### Anzeigen einer vorhandenen Aufgabenliste
 
 Ein Klick auf eine Aufgabenliste öffnet diese Liste. Angezeigt werden
 zunächst die unerledigten Aufgaben.
 
-![](Anleitung_Aufg_3.png){: loading=lazy width="100%" }
+![](attachments/Anleitung_Aufg_3.png){: loading=lazy width="100%" }
 
 Bemerkung: An manchen Stellen werden Aufgabenlisten noch als Todo-Liste
 bezeichnet. Das wird noch vereinheitlicht.
@@ -79,7 +79,7 @@ Um die erledigten Aufgaben anzeigen zu lassen, klickt man auf den gelben
 Button *Erledigte Aufgaben* ansehen. Hier lässt sich der Status einer
 erledigten Aufgabe bei Bedarf wieder auf *offen* setzen.
 
-![](Anleitung_Aufg_4.png){: loading=lazy width="100%" }
+![](attachments/Anleitung_Aufg_4.png){: loading=lazy width="100%" }
 
 ## Aufgaben
 
@@ -90,7 +90,7 @@ Namen der Aufgabenliste befindet sich ein Button *Neue Aufgabe*.
 
 Ein Klick darauf öffnet eine Eingabemaske:
 
-![](Anleitung_Aufg_6.png){: loading=lazy width="100%" }
+![](attachments/Anleitung_Aufg_6.png){: loading=lazy width="100%" }
 
 Man trägt die Bezeichnung der neuen Aufgabe ein sowie ggf. eine kurze
 Beschreibung und wählt den Termin, bis zu dem die Aufgabe erledigt sein
@@ -112,7 +112,7 @@ Ein Klick auf den Button *Submit* speichert die neue Aufgabe.
 Klickt man in der Aufgabenliste auf eine Aufgabe, werden deren Details
 angezeigt.
 
-![](Anleitung_Aufg_7.png){: loading=lazy width="100%" }
+![](attachments/Anleitung_Aufg_7.png){: loading=lazy width="100%" }
 
 Der Titel der Aufgabe und ggf. eine Beschreibung in dem großen Feld
 links. Rechts daneben finden sich drei Buttons:

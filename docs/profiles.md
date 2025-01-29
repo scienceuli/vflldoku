@@ -1,6 +1,6 @@
 # Benutzerprofile
 
-Jeder Benutzer hat im KollTool ein eigenes Profil (→ ![!Profil](profile_icon.png){: width=50}, in dem er Vor- und Zuname, ein Profilbild und Angaben zu seiner Biografie pflegen kann.
+Jeder Benutzer hat im KollTool ein eigenes Profil (→ ![!Profil](attachments/profile_icon.png){: width=50}, in dem er Vor- und Zuname, ein Profilbild und Angaben zu seiner Biografie pflegen kann.
 
 Alle Felder sind für das KollTool *optional*, da die Useridentifizierung und -authentifizierung über den intern geführten *username* und die E-Mail-Adresse läuft. 
 

@@ -10,6 +10,8 @@ Dokumente sind im KollTool analog zur Dateistruktur auf dem Computer in Verzeich
 
 Ein Klick auf den Menüpunkt *Verzeichnisse* öffnet eine Tabelle mit sämtlichen Verzeichnissen aller Teams, in denen man Mitglied ist. 
 
+Testabsatz
+
 Auf dieser Seite kann man nun folgende Dinge tun:
 
 + ein neues Verzeichnis anlegen

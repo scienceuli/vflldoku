@@ -4,13 +4,13 @@ tags:
 ---
 # Teams
 
-Ein Klick auf den Menüpunkt *Teams* \(→ ![Profile-Icon](attachments/button_teams_icon.png)\) öffnet eine Seite, auf der alle Teams angezeigt werden, in denen man Mitglied ist.
+Ein Klick auf den Menüpunkt *Teams* \(→ ![Profile-Icon|70](attachments/button_teams_icon.png)\) öffnet eine Seite, auf der alle Teams angezeigt werden, in denen man Mitglied ist.
 
-Teams sind Nutzergruppen, die das KollTool für die Zusammenarbeit nutzen, z. B. der Regionalrat, das Sprecher\*innen-Team einer RG oder das Kinder- und Jugendbuch-Netzwerk. Teams bilden die Grundstruktur des KollTools.
+Teams sind Nutzergruppen, die das KollTool für die Zusammenarbeit nutzen, beispielsweise der Regionalrat, das Sprecher\*innen-Team einer RG oder das Kinder- und Jugendbuch-Netzwerk. Teams bilden die Grundstruktur des KollTools.
 
 Aufgabenlisten oder Verzeichnisse und Dokumente gehören immer einem Team und sind für dessen Mitglieder einsehbar und ggf. bearbeitbar.
 
-KollTool-Nutzer\*innen können mehreren Teams angehören. So ist z. B. die Delegierte einer RG Mitglied im Team Regionalrat, im Sprecher\*innen-Team ihrer RG und im Team Regionalgruppen.
+KollTool-Nutzer\*innen können mehreren Teams angehören. So ist beispielsweise die Delegierte einer RG Mitglied im Team Regionalrat, im Sprecher\*innen-Team ihrer RG und im Team Regionalgruppen.
 
 Alle registrierten Personen gehören zum Team *offene Gruppe*.
 
@@ -18,9 +18,9 @@ Alle registrierten Personen gehören zum Team *offene Gruppe*.
 
 Die Einrichtung eines Teams muss bei der [Geschäftsstelle](mailto:geschaeftsstelle@vfll.de) beantragt werden. Die beantragende Person wird (i. d. R.) zum Manager des Teams und ist damit berechtigt, weitere Personen in das Team einzuladen.
 
-Ein Team beantragen kann die Person, die in irgendeiner Weise eine Gruppe Aktiver oder ein Projekt vertritt, z. B. RG-Sprecher\*innen oder Netzwerk-Sprecher\*innen.
+Ein Team beantragen kann eine Person, die in irgendeiner Weise eine Gruppe Aktiver oder ein Projekt vertritt, beispielsweise RG-Sprecher\*innen oder Netzwerk-Sprecher\*innen.
 
-Teammitglieder können nicht nur Personen mit einem offiziellen Amt im VFLL werden, sondern alle, die aktiv beitragen und eine Aufgabe übernommen haben. In einer RG wären dies also nicht nur die gewählten Sprecher\*innen, sondern z. B. auch der Fortbildungsbeauftragte der RG oder die das Tandem-Programm Betreuenden. Zu Netzwerk-Teams gehören alle interessierten Mitglieder des jeweiligen Netzwerks.
+Teammitglieder können nicht nur Personen mit einem offiziellen Amt im VFLL werden, sondern alle, die aktiv beitragen und eine Aufgabe übernommen haben. In einer RG wären dies also nicht nur die gewählten Sprecher\*innen, sondern beispielsweise auch die\*der Fortbildungsbeauftragte der RG oder die das Tandem-Programm Betreuenden. Zu Netzwerk-Teams gehören alle interessierten Mitglieder des jeweiligen Netzwerks.
 
 ## Neue Team-Mitglieder einladen
 

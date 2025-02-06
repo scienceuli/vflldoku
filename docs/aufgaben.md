@@ -13,7 +13,6 @@ Unten auf der Seite folgen die privaten Listen, sofern solche angelegt wurden.
 
 ![Aufgabenlisten](attachments/aufgabenlisten_neu.png)
 
-
 Die Zahlen in den blauen Kreisen rechts neben den Aufgabenlisten geben
 die Anzahl der in den Listen vorhandenen Aufgaben an.
 

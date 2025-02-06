@@ -124,11 +124,12 @@ Im **Hauptfenster** ist die **Präsentationsfläche** zu sehen, die mit Klick au
  
 Hinter dem rechten Button in Buttongruppe in der Mitte (in der Abbildung schwarz) verbirgt sich die **Bildschirmfreigabe**.
 
-Dafür benötigt man Präsentatorrechte. Alle Teilnehmenden können sich entweder mit Klick auf das Pluszeichen in der Fußleiste oder über das Kontextmenü der Kachel zum Präsentator machen. 
+Dafür benötigt man *Präsentatorrechte*. Alle Teilnehmenden können sich 
+mit Klick auf das Pluszeichen in der Fußleiste zum Präsentator machen. 
 
 ![Zum Präsentator werden|150](attachments/bbb_praesentator_werden.png)
 
-Alternativ geht das über die Teilnehmerliste:
+Alternativ geht das über die Kachel in der Teilnehmerliste:
 
 ![Über die Teilnehmerliste zum Präsentator werden|300](attachments/bbb_praesentator_werden_alternative.png)
 

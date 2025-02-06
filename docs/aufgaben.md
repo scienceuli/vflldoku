@@ -11,7 +11,8 @@ angezeigt werden, sortiert nach den Teams.
 
 Unten auf der Seite folgen die privaten Listen, sofern solche angelegt wurden.
 
-![Aufgabenlisten](attachments/aufgabenlisten.png)
+![Aufgabenlisten](attachments/aufgabenlisten_neu.png)
+
 
 Die Zahlen in den blauen Kreisen rechts neben den Aufgabenlisten geben
 die Anzahl der in den Listen vorhandenen Aufgaben an.
@@ -22,7 +23,7 @@ Eine neue Aufgabenliste wird über den Button *Neue Aufgabenliste* angelegt,
 der sich am Ende der Seite mit den Aufgabenlisten befindet. Es öffnet
 sich eine Eingabemaske mit dem Titel *Liste hinzufügen*.
 
-![[attachments/aufgabenliste_anlegen.png]]
+![Aufgabenliste anlegen](attachments/aufgabenliste_anlegen.png)
 
 Man trägt den Titel der neuen Aufgabenliste ein und wählt das Team aus,
 dem die Aufgabenliste gehören soll.
@@ -37,11 +38,11 @@ selbst.
 Ein Klick auf eine Aufgabenliste öffnet diese Liste. Angezeigt werden
 zunächst die unerledigten Aufgaben.
 
-![[attachments/aufgabenliste_anzeigen.png]]
+![Aufgabenliste anzeigen](attachments/aufgabenliste_anzeigen_neu.png)
 
 Oben steht der Name der Aufgabenliste, darunter ein Button zum Anlegen
 einer neuen Aufgabe. Der graue Button führt bei Bedarf zur
-Übersichtseite des Teams, dem die Aufgabenliste gehört.
+Übersichtseite des Teams, dem die Aufgabenliste gehört. Über *Ändern* lässt sich die Aufgabenliste umbenennen.
 
 Darunter werden die Aufgaben aufgeführt, die in der Aufgabenliste
 enthalten sind. Zu jeder Aufgabe finden sich folgende Informationen:
@@ -87,7 +88,7 @@ Namen der Aufgabenliste befindet sich ein Button *Neue Aufgabe*.
 
 Ein Klick darauf öffnet eine Eingabemaske:
 
-![[attachments/aufgaben_anlegen.png]]
+![Aufgabe anlegen](attachments/neue_aufgabe_anlegen.png)
 
 Man trägt die Bezeichnung der neuen Aufgabe ein sowie ggf. eine kurze
 Beschreibung und wählt den Termin, bis zu dem die Aufgabe erledigt sein
@@ -109,7 +110,7 @@ Ein Klick auf den Button *Submit* speichert die neue Aufgabe.
 Klickt man in der Aufgabenliste auf eine Aufgabe, werden deren Details
 angezeigt.
 
-![[attachments/aufgabe_details.png]]
+![Aufgabendetails](attachments/aufgabe_details.png)
 
 Der Titel der Aufgabe und ggf. eine Beschreibung stehen in dem großen Feld
 links. Rechts daneben finden sich drei Buttons:
@@ -151,7 +152,7 @@ Unterhalb der Aufgabe gibt es ein Feld, in dem man einen Kommentar zur Aufgabe e
 Die bereits vorhandenen Kommentare werden darunter angezeigt mit dem
 Namen des/der Kommentierenden und dem Datum.
 
-![[attachments/aufgabe_kommentare.png]]
+![Aufgabe kommentieren](attachments/aufgabe_kommentare.png)
 
 Eigene Kommentare kann man editieren (Stiftsymbol) und löschen (Papierkorbsymbol).
 

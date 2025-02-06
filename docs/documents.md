@@ -126,29 +126,29 @@ Unter dieser Liste finden sich 4 Buttons:
 
 *Hinweis*: Dokumente lassen sich in der Dokumente-Übersicht des Verzeichnisses mit Klick auf das Sternchen-Symbol als wichtig kennzeichnen. So gekennzeichnete Dokumente werden im Dashboard unter „Meine Favoriten“ aufgelistet.
 
-### Attachments an Dokumenten
+### Attachments zu Dokumenten
 
-Oft möchte man gar nicht unbedingt Texte direkt im Eingabefeld eingeben, sondern fertige Dateien (pdf oder Text-Dateien) im KollTool ablegen, beispielsweise Protokolle von Sitzungen.
+Oft möchte man gar nicht unbedingt Texte direkt im Eingabefeld eingeben, sondern fertige Dateien (pdf- oder Text-Dateien) im KollTool ablegen, beispielsweise Protokolle von Sitzungen.
 
-In diesem Fall legt man ein Dokument mit einer kurzen Beschreibung der Datei, um die es geht; an. Die Datei selbst fügt man dann als Attachment an. Die Buttons zum Anfügen von Attachments oder zum Herunterladen bereits vorhandener Attachments finden sich unübersehbar unter dem Dokument.
+In diesem Fall legt man ein Dokument an mit einer kurzen Beschreibung der Datei, um die es geht. Die Datei selbst fügt man dann als Attachment an. Die Buttons zum Anfügen von Attachments oder zum Herunterladen bereits vorhandener Attachments finden sich unübersehbar unter dem Dokument.
 
 ![Attachmentbeispiel](attachments/dokumente_attachments_beispiel.png)
 
 Die Liste der Attachments zu einem KollTool-Dokument enthält mehrere Spalten: Nummer, Dateiname, Hochladedatum und hochladende Person, Typ sowie Aktion.
 
 Welche *Aktionen* angeboten werden, ist vom Dateityp des Attachments abhängig.  
-Für alle Dateitypen gilt: mit Sternchen als wichtig kennzeichnen, unter i die Dateibeschreibung (siehe oben) einsehen, das Attachment herunterladen, das Attachment ansehen und löschen.  
-Für .dotx-Dateien kommen zwei weitere Möglichkeiten dazu: Dokument in die Nextcloud verschieben \(--> NC, wenn das Team einen [Nextcloud-Zugang](https://kolltool.vfll.de/docs/nextcloud/) hat\) und Umwandlung in eine PDF. 
+Für alle Dateitypen gilt: mit Sternchen als wichtig kennzeichnen, unter i die Dateibeschreibung (siehe oben) einsehen, das Attachment herunterladen, ansehen (Augensymbol) und löschen.  
+Für .dotx-Dateien kommen zwei weitere Möglichkeiten dazu: Dokument in die Nextcloud verschieben \(→NC, wenn das Team einen [[nextcloud]]-Zugang hat\) und Umwandlung in eine PDF.
 
 ### Kommentare zu Dokumenten
 
 Unterhalb der Liste der Attachments findet sich noch ein Kommentarfeld. Hier können Teammitglieder Kommentare zum Dokument abgeben. Ein Klick auf *Kommentar hinzufügen* speichert den Kommentar beim Dokument ab. Er wird dann angezeigt mit Inhalt, Autor\*in und Veröffentlichungsdatum und es öffnet sich ein Textfeld für den nächsten Kommentar. 
 
-![Kommentare zu Dokumenten](attachments/Anleitung_Doks_13.png)
+![Kommentare zu Dokumenten|400](attachments/Anleitung_Doks_13.png)
 
 Eigene Kommentare können durch Anklicken von *löschen* wieder gelöscht werden.
 
-![Kommentar_löschen|300](dokumente_kommentar-loeschen.png)
+![Kommentar_löschen|300](attachments/dokumente_kommentar-loeschen.png)
 
 ### Verschieben von Dokumenten in andere Verzeichnisse
 
@@ -156,7 +156,7 @@ Stellt man fest, dass sich eine einmal gewählte Verzeichnisstruktur nicht bewä
 
 Dazu dient der graue Button mit Ordnersymbol, auf das ein Pfeil zeigt, unter Aktionen.
 
-![[dokument_verschieben.png]]
+![[attachments/dokument_verschieben.png]]
 
 Ein Klick darauf öffnet ein Auswahlfeld, in dem man das gewünschte Zielverzeichnis anklicken kann.
 
@@ -172,11 +172,11 @@ Unter dem Menüpunkt *Tags* (Menüleiste links, erscheint im Untermenü nach Ank
 
 Neben den Tags werden die Teams, die Zugriff auf diese Tags haben, angezeigt. Möchte man einen vorhandenen Tag nutzen, klickt man auf das Stiftsymbol und kreuzt in der erscheinenden Liste das eigene Team an.
 
-![Tag-Liste|400](attachments/dokumente_tags.png)
+![Tag-Liste|300](attachments/dokumente_tags.png)
 
 Ist von den vorhandenen Tags keiner für den eigenen Zweck geeignet, gibt es unterhalb der Liste die Möglichkeit, einen neuen Tag anzulegen.
 
-![Tag anlegen|350](attachments/dokumente_tags_anlegen.png)
+![Tag anlegen|300](attachments/dokumente_tags_anlegen.png)
 
 Man gibt dem neuen Tag einen Namen, eine Beschreibung und klickt die Teams an, die ihn nutzen sollen. Die genannten Punkte sind verpflichtend.
 
@@ -193,11 +193,12 @@ Es gibt verschiedene Möglichkeiten, um mit Dokumenten zu arbeiten:
 + Dokumente editieren
 + Dokumente kommentieren und abschließend das Dokument editieren
 
-Direkt Dokumente zu *editieren*, eignet sich beispielsweise für die Erstellung von Tagesordnungen für regelmäßige Team-Meetings oder für das Zusammentragen von Informationen zu einem Thema.  
-Damit die Textänderungen im Fall von Rückfragen zugeordnet werden können, jeweils Namen oder Namenskürzel angeben.
+Das *Editieren* von Dokumenten eignet sich beispielsweise für die Erstellung von Tagesordnungen für regelmäßige Team-Meetings oder für das Zusammentragen von Informationen zu einem Thema.  
+Damit die Textänderungen im Fall von Rückfragen zugeordnet werden können, jeweils Namen oder Namenskürzel angeben.  
+„Update“ nicht vergessen!
 
 Mit *Kommentaren* zu arbeiten bietet sich an, wenn das fertige Dokument außerhalb des KollTools verwendet werden soll. Beispiel: Der Regionalrat verfasst eine Stellungnahme für den Vorstand. Das KollTool-Dokument ist zunächst ein Entwurf, der dann anhand der Kommentare überarbeitet wird.
 
-Sollen umfangreichere Dokumente gemeinsam bearbeitet werden, ist die Nutzung der Nextcloud sinnvoll. Näheres dazu siehe [nextcloud](https://kolltool.vfll.de/docs/nextcloud/).
+Sollen umfangreichere Dokumente gemeinsam bearbeitet werden, ist die Nutzung der Nextcloud sinnvoll. Näheres dazu siehe [[nextcloud]].
 
 

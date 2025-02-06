@@ -1,6 +1,6 @@
 # Meetings mit BigBlueButton
 
-Das KollTool stellt für Video-Meetings die Open Source Software <https://bigbluebutton.org> zur Verfügung. Sie wird auf einem eigenen leistungsfähigen Server gehostet. Dadurch sind jederzeit Videokonferenzen mit (theoretisch) beliebig vielen Teilnehmenden möglich.
+Das KollTool stellt für Video-Meetings die Open Source Software [BigBlueButton](https://bigbluebutton.org) zur Verfügung. Sie wird auf einem eigenen leistungsfähigen Server gehostet. Dadurch sind jederzeit Videokonferenzen mit (theoretisch) beliebig vielen Teilnehmenden möglich.
 
 Videokonferenzen innerhalb von BigBlueButton (BBB) sind in *Räumen* organisiert; jeder Raum steht für ein Meeting. Erst wenn ein Raum „geöffnet“ wird und ein\*e User\*in eingetreten ist, läuft das Meeting. 
 
@@ -60,12 +60,12 @@ Falls sich die Meetingraum-Kachel nach Beenden einer Konferenz nicht rot färbt,
 
 ## Meetings planen
 
-Über den Button ![BBB-Kalender-Icon|30](attachments/button_plan_bbb.png) lassen sich Meetings planen. Jedes geplante Meeting besteht aus: Beginn (Datum und Uhrzeit) – Dauer (in Minuten) – Titel – Beschreibung (optional).
+Über den Button ![BBB-Kalender-Icon|20](attachments/button_plan_bbb.png) lassen sich Meetings planen. Jedes geplante Meeting besteht aus: Beginn (Datum und Uhrzeit) – Dauer (in Minuten) – Titel – Beschreibung (optional).
 
 Die geplanten Meetings werden zum vorgesehenen Startpunkt gestartet und automatisch nach der vorgesehenen Dauer beendet, falls sich keine Teilnehmenden mehr im Meeting befinden. 
 Eine Übersicht der geplanten Meetings findet sich auf jeder Meeting-Kachel im Reiter *Kalender*. Dort können geplante Meetings auch geändert oder gelöscht werden.
 
-![Übersicht Meetings|400](attachments/meeting_calendar.png)
+![Übersicht Meetings|350](attachments/meeting_calendar.png)
 
 
 ## Weitere Informationen zu BBB
@@ -82,9 +82,9 @@ Beim Eintritt in ein BBB-Meeting wird man zunächst gefragt, ob man der Konferen
 
 Um mit Webcambild am Meeting teilzunehmen, muss man nun die Kamera freigeben. Dazu klickt man auf das (noch durchgestrichene) Kamerasymbol in der Leiste unten und wählt dann die Option „Webcam freigeben“. Hier hat man auch die Möglichkeit, einen Hintergrund einzustellen.
 
-![Webcam-Freigabe|400](attachments/bbb_webcam-freigabe_1.png)
+![Webcam-Freigabe|350](attachments/bbb_webcam-freigabe_1.png)
 
-![Hintergrund einstellen|400](attachments/bbb_webcam-freigabe_2.png)
+![Hintergrund einstellen|350](attachments/bbb_webcam-freigabe_2.png)
 
 
 ### Die einzelnen Bereiche des BBB-Bildschirms
@@ -101,21 +101,22 @@ In der **Teilnehmerliste** werden alle Teilnehmenden in Form von Kacheln mit Nam
 
 Der **Chat** ermöglicht zum einen Teilnehmenden mit Mikrofonproblemen die aktive Konferenzteilnahme, zum anderen eignet er sich zur Weitergabe von Links oder anderen Informationen, die im aktuellen Zusammenhang von Bedeutung sind.
 
-![Chatbeispiel|350](attachments/bbb_chat_beispiel.png)
+![Chatbeispiel|300](attachments/bbb_chat_beispiel.png)
 
 Speichern kann man den Chatverlauf über das Kontextmenü, das sich rechts oben hinter den drei Punkten verbirgt.
 
-![Chat speichern|350](attachments/bbb_chat_menu.png)
+
+![Chat speichern|300](attachments/bbb_chat_menu.png)
 
 Der *Export* ist nur als .txt möglich.
 
 Unter **Geteilte Notizen** können beispielsweise Diskussionsergebnisse, getroffene Vereinbarungen oder Tagesordnungspunkte für die nächste Konferenz festgehalten werden.
 
-![Geteilte Notizen|350](attachments/bbb_geteilte-Notizen.png)
+![Geteilte Notizen|300](attachments/bbb_geteilte-Notizen.png)
 
 Hinter dem Pfeilsymbol oben rechts verbergen die Exportmöglichkeiten, die dann unten im Notizenfenster angezeigt werden.
 
-![Export geteilter Notizen|350](attachments/bbb_geteilte-notizen_export.png)
+![Export geteilter Notizen|300](attachments/bbb_geteilte-notizen_export.png)
 
 Im **Hauptfenster** ist die **Präsentationsfläche** zu sehen, die mit Klick auf den zweiten Button von rechts in der Fußleiste minimiert werden kann. 
 
@@ -125,11 +126,11 @@ Hinter dem rechten Button in Buttongruppe in der Mitte (in der Abbildung schwarz
 
 Dafür benötigt man Präsentatorrechte. Alle Teilnehmenden können sich entweder mit Klick auf das Pluszeichen in der Fußleiste oder über das Kontextmenü der Kachel zum Präsentator machen. 
 
-![Zum Präsentator werden|200](attachments/bbb_praesentator_werden.png)
+![Zum Präsentator werden|150](attachments/bbb_praesentator_werden.png)
 
 Alternativ geht das über die Teilnehmerliste:
 
-![Über die Teilnehmerliste zum Präsentator werden|450](attachments/bbb_praesentator_werden_alternative.png)
+![Über die Teilnehmerliste zum Präsentator werden|300](attachments/bbb_praesentator_werden_alternative.png)
 
 Klickt man auf *Bildschirm freigeben*, erscheint folgendes Fenster:
 
@@ -137,7 +138,7 @@ Klickt man auf *Bildschirm freigeben*, erscheint folgendes Fenster:
 
 Hier kann man auswählen, was freigegeben werden soll, und muss die Freigabe bestätigen.
 
-![Bildschirmteilung erlauben|400](attachments/bbb_bildschirm-teilen_erlauben.png)
+![Bildschirmteilung erlauben|350](attachments/bbb_bildschirm-teilen_erlauben.png)
 
 *Wichtig*: Es können nur Browserfenster freigegeben werden, keine Browsertabs.
 
@@ -169,5 +170,7 @@ Ist die Umfrage abgeschlossen, kann das Ergebnis veröffentlicht werden. Es ersc
 
 ## Zoom Meetings
 
-siehe [[zoom]].
+siehe [[zoom]]
+
+
 

@@ -14,7 +14,9 @@ Beispiel: User *Anna* und *Ben* aus dem Team *Planung* wollen gemeinsam am Dokum
 - Benötigt ein KollTool-Team ein Nextcloud-Verzeichnis, kontaktiert es den [Admin](mailto:kolltooladmin@vfll.de). Er legt für alle Teammitglieder Nextcloud-Accounts an und richtet ein Nextcloud-Verzeichnis für das Team ein. Nextcloud verschickt automatisch an neue Accounts eine E-Mail mit der Aufforderung, ein Passwort festzulegen.
 - Soll ein Office-Dokument (zur Zeit nur docx-Dateien), das als Attachment an einem KollTool-Dokument hängt, gemeinsam bearbeitet werden, wird es über den Button *->NC* auf die Nextcloud geschoben. Solche Attachments werden hinter dem Dateinamen durch ein **NC** gekennzeichnet. Dahinter liegt gleichzeitig ein Link auf das Nextcloud-Verzeichnis (also das Team-Verzeichnis), in dem das Office-Dokument liegt.  
 *Wichtig*: Um diese Aktion ausführen zu können, muss im Profil das Nextcloud-Passwort des Users hinterlegt sein (siehe oben).
-+ Soll die Endfassung des bearbeiteten Dokuments im KollTool hinterlegt werden, muss es lokal abgespeichert und im KollTool hochgeladen werden,
++ Soll die Endfassung des bearbeiteten Dokuments im KollTool hinterlegt werden, muss es lokal abgespeichert und im KollTool hochgeladen werden.
+
+***Hinweis***: Kommentare sind in OnlyOffice erst sichtbar, wenn man sie anklickt. Ein Workaround, der sich als nützlich erwiesen hat, ist, Kommentare in Doppelklammern und mit Namenskürzel in den Text einzufügen.
 
 ## Nützliche Links
 
@@ -22,4 +24,3 @@ Nextcloud-Benutzerhandbuch: <https://docs.nextcloud.com/server/19/benutzerhandbu
 
 Nähere Informationen zu OnlyOffice: [https://helpcenter.onlyoffice.com/de/userguides/docs-index.aspx](https://helpcenter.onlyoffice.com/de/userguides/docs-index.aspx), speziell zur Dokumentbearbeitung: [https://helpcenter.onlyoffice.com/de/userguides/docs-de.aspx](https://helpcenter.onlyoffice.com/de/userguides/docs-de.aspx)
 
-*Hinweis*: Kommentare sind in OnlyOffice erst sichtbar, wenn man sie anklickt. Ein Workaround, der sich als nützlich erwiesen hat, ist, Kommentare in Doppelklammern und mit Namenskürzel in den Text einzufügen.

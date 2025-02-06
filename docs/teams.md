@@ -1,7 +1,3 @@
----
-tags:
-- Dokumentation
----
 # Teams
 
 Ein Klick auf den Menüpunkt *Teams* \(→ ![Profile-Icon|70](attachments/button_teams_icon.png)\) öffnet eine Seite, auf der alle Teams angezeigt werden, in denen man Mitglied ist.
@@ -24,10 +20,10 @@ Teammitglieder können nicht nur Personen mit einem offiziellen Amt im VFLL werd
 
 ## Neue Team-Mitglieder einladen
 
-Die Managerin eines Teams kann andere Personen in das Team einladen. Dazu dient der Button *einladen* in der Team-Übersicht. In dem sich öffnenden Fenster gibt man den Namen und die E-Mail-Adresse des neuen Mitglieds ein. Anhand der E-Mail-Adresse prüft das Tool, ob es bereits eine\*n User\*in mit dieser Mailadresse gibt.
+Manager\*innen eines Teams können andere Personen in das Team einladen. Dazu dient der Button *einladen* in der Team-Übersicht. In dem sich öffnenden Fenster gibt man den Namen und die E-Mail-Adresse des neuen Mitglieds ein. Anhand der E-Mail-Adresse prüft das Tool, ob es bereits eine\*n User\*in mit dieser Mailadresse gibt.
 
 Falls die eingeladene Person bereits im KollTool registriert ist, muss sie nur die Einladung in der Teamübersicht akzeptieren.
 
 Falls die Person noch nicht als KollTool-User\*in registriert ist, bekommt sie eine Einladungs-E-Mail mit einem Registrierungslink zugeschickt. Damit kann sich die Person registrieren und ein Passwort festlegen. Sie wird dann automatisch dem Team hinzugefügt, zu dem sie eingeladen ist, muss also nicht noch extra die Einladung akzeptieren.
 
-*Anmerkung:* Die nicht aktiven Mitglieder können sich nicht im KollTool registrieren und sollten deshalb auch in kein Team eingeladen werden. Dennoch können sie selbstverständlich an Meetings teilnehmen, indem sie über den Gastzugang den BBB-Raum betreten oder auf Einladung an einem Zoom-Meeting teilnehmen.
+*Anmerkung:* Die nicht aktiven Mitglieder können sich *nicht* im KollTool registrieren und sollten deshalb auch in kein Team eingeladen werden. Dennoch können sie selbstverständlich an Meetings teilnehmen, indem sie über den Gastzugang den BBB-Raum betreten oder auf Einladung an einem Zoom-Meeting teilnehmen.

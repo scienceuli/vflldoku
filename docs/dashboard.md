@@ -1,7 +1,7 @@
 
 # Dashboard
 
-Das Dashboard (![[dashboard_icon.png]]) bietet einen individuellen Überblick und eignet sich daher als Einstiegsseite für jeden KollTool-Besuch. 
+Das Dashboard \(![Dashboard_Icon](attachments/dashboard_icon.png)\) bietet einen individuellen Überblick und eignet sich daher als Einstiegsseite für jeden KollTool-Besuch. 
 
 Man kann die Einträge in den einzelnen Rubriken mit Minus- bzw. Pluszeichen aus- und einblenden. Klickt man das x an, verschwindet die Rubrik, ist beim nächsten Aufruf des Dashboards aber wieder da.
 

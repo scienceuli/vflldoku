@@ -6,13 +6,12 @@ Aufgabenlisten sind Todo-Listen, in denen die Teams zu erledigende
 Aufgaben thematisch sortiert festhalten und deren Bearbeitung
 dokumentieren können.
 
-Links in der Menüleiste findet man den Menüpunkt *Aufgaben* \(→![Aufgaben_Icon|70](aufgaben_icon.png)\). Ein Klick darauf öffnet eine Seite, auf der die Aufgabenlisten der eigenen Teams
+Links in der Menüleiste findet man den Menüpunkt *Aufgaben* \(→![Aufgaben_Icon|70](attachments/aufgaben_icon.png)\). Ein Klick darauf öffnet eine Seite, auf der die Aufgabenlisten der eigenen Teams
 angezeigt werden, sortiert nach den Teams.
 
 Unten auf der Seite folgen die privaten Listen, sofern solche angelegt wurden.
 
-![Aufgabenlisten](aufgabenlisten.png)
-{: loading=lazy width="100%" }
+![Aufgabenlisten](attachments/aufgabenlisten.png)
 
 Die Zahlen in den blauen Kreisen rechts neben den Aufgabenlisten geben
 die Anzahl der in den Listen vorhandenen Aufgaben an.
@@ -23,8 +22,7 @@ Eine neue Aufgabenliste wird über den Button *Neue Aufgabenliste* angelegt,
 der sich am Ende der Seite mit den Aufgabenlisten befindet. Es öffnet
 sich eine Eingabemaske mit dem Titel *Liste hinzufügen*.
 
-![[aufgabenliste_anlegen.png]]
-{: loading=lazy width="100%" }
+![[attachments/aufgabenliste_anlegen.png]]
 
 Man trägt den Titel der neuen Aufgabenliste ein und wählt das Team aus,
 dem die Aufgabenliste gehören soll.
@@ -39,8 +37,7 @@ selbst.
 Ein Klick auf eine Aufgabenliste öffnet diese Liste. Angezeigt werden
 zunächst die unerledigten Aufgaben.
 
-![[aufgabenliste_anzeigen.png]]
-{: loading=lazy width="100%" }
+![[attachments/aufgabenliste_anzeigen.png]]
 
 Oben steht der Name der Aufgabenliste, darunter ein Button zum Anlegen
 einer neuen Aufgabe. Der graue Button führt bei Bedarf zur
@@ -90,8 +87,7 @@ Namen der Aufgabenliste befindet sich ein Button *Neue Aufgabe*.
 
 Ein Klick darauf öffnet eine Eingabemaske:
 
-![[aufgaben_anlegen.png]]
-{: loading=lazy width="100%" }
+![[attachments/aufgaben_anlegen.png]]
 
 Man trägt die Bezeichnung der neuen Aufgabe ein sowie ggf. eine kurze
 Beschreibung und wählt den Termin, bis zu dem die Aufgabe erledigt sein
@@ -113,8 +109,7 @@ Ein Klick auf den Button *Submit* speichert die neue Aufgabe.
 Klickt man in der Aufgabenliste auf eine Aufgabe, werden deren Details
 angezeigt.
 
-![[aufgabe_details.png]]
-{: loading=lazy width="100%" }
+![[attachments/aufgabe_details.png]]
 
 Der Titel der Aufgabe und ggf. eine Beschreibung stehen in dem großen Feld
 links. Rechts daneben finden sich drei Buttons:
@@ -156,8 +151,7 @@ Unterhalb der Aufgabe gibt es ein Feld, in dem man einen Kommentar zur Aufgabe e
 Die bereits vorhandenen Kommentare werden darunter angezeigt mit dem
 Namen des/der Kommentierenden und dem Datum.
 
-![[aufgabe_kommentare.png]]
-{: loading=lazy width="100%" }
+![[attachments/aufgabe_kommentare.png]]
 
 Eigene Kommentare kann man editieren (Stiftsymbol) und löschen (Papierkorbsymbol).
 

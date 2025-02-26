@@ -8,25 +8,32 @@ repo_name: scienceuli/vflldoku
 repo_url: https://github.com/scienceuli/vflldoku
 
 # Navigation
-nav: 
-  - Home: index.md
-  - Profil: profiles.md
-  - Teams: teams.md
-  - Aufgaben: aufgaben.md
-  - Dokumente und Verzeichnisse: documents.md
-  - Nextcloud-Anbindung: nextcloud.md
-  - Umfragen: polls.md
-  - Meetings (BBB): bbb.md
-  - Meetings (Zoom): zoom.md
+# nav: 
+#   - Home: index.md
+#   - Profil: profiles.md
+#   - Teams: teams.md
+#   - Aufgaben: aufgaben.md
+#   - Dokumente und Verzeichnisse: documents.md
+#   - Nextcloud-Anbindung: nextcloud.md
+#   - Umfragen: polls.md
+#   - Meetings (BBB): bbb.md
+#   - Meetings (Zoom): zoom.md
 
 # Material for MkDocs
 theme:
   name: material
   custom_dir: docs/.overrides
+  features:
+    - search.suggest
+    - search.highlight
 
 markdown_extensions:
   - attr_list
   - md_in_html
+  - toc:
+      permalink: true
+      title: Inhaltsverzeichnis
 
 plugins:
   - glightbox
+  - search

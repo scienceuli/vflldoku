@@ -21,6 +21,7 @@ repo_url: https://github.com/scienceuli/vflldoku
 
 # Material for MkDocs
 theme:
+  language: de
   name: material
   custom_dir: docs/.overrides
   features:

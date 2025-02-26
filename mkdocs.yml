@@ -35,5 +35,18 @@ markdown_extensions:
       title: Inhaltsverzeichnis
 
 plugins:
+  - pub-obsidian:
+      obsidian_dir: .obsidian
+      templates_dir: _templates
+      backlinks:
+        enabled: true
+      callouts:
+        enabled: true
+        indentation: spaces
+      links:
+        wikilinks_enabled: true
   - glightbox
   - search
+
+hooks:
+  - hooks.py

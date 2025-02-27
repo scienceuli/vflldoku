@@ -156,7 +156,7 @@ Stellt man fest, dass sich eine einmal gewählte Verzeichnisstruktur nicht bewä
 
 Dazu dient der graue Button mit Ordnersymbol, auf das ein Pfeil zeigt, unter Aktionen.
 
-![[attachments/dokument_verschieben.png]]
+![Dokument verschieben](attachments/dokument_verschieben.png)
 
 Ein Klick darauf öffnet ein Auswahlfeld, in dem man das gewünschte Zielverzeichnis anklicken kann.
 

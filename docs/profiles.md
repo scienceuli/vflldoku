@@ -16,6 +16,6 @@ Trotzdem ist es sinnvoll, zumindest die Felder Vorname und Nachname auszufüllen
 
 Hat das Team einen Nextcloud-Bereich \(siehe [[nextcloud]]\) muss zwingend der *Nextcloud key* eingetragen werden.
 
-Standardmäßig sind die Benachrichtigungen aktiviert. Die Benachrichtigungsmails tragen kolltool@vfll.de als Absender. Wer nicht benachrichtigt werden möchte, muss die Funktion deaktivieren: Häkchen bei „Benachrichtigungen“ entfernen und „Aktualisieren“. Wem eine Aufgabe zugewiesen wurde, wird auch bei deaktivierter Benachrichtigungsfunktion benachrichtigt!
+Standardmäßig sind die Benachrichtigungen aktiviert. Die Benachrichtigungsmails tragen *kolltool@vflll.de* als Absender. Wer nicht benachrichtigt werden möchte, muss die Funktion deaktivieren: Häkchen bei „Benachrichtigungen“ entfernen und „Aktualisieren“. Wem eine Aufgabe zugewiesen wurde, wird auch bei deaktivierter Benachrichtigungsfunktion benachrichtigt!
 
 *Post anlegen*: Der hier eingefügte Text erscheint auf der KollTool-Startseite. Bitte von dieser Funktion nur Gebrauch machen, wenn die Information für alle KollTool-Nutzer\*innen wichtig ist!

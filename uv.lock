@@ -493,7 +493,7 @@ requires-dist = [
     { name = "mkdocs", specifier = ">=1.6.1" },
     { name = "mkdocs-glightbox", specifier = ">=0.4.0" },
     { name = "mkdocs-material", git = "https://github.com/squidfunk/mkdocs-material" },
-    { name = "mkdocs-publisher" },
+    { name = "mkdocs-publisher", specifier = ">=1.4.6" },
     { name = "pillow", specifier = ">=11.1.0" },
 ]
 

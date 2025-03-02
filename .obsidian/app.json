@@ -1,4 +1,4 @@
 {
-  "attachmentFolderPath": "./attachments",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "attachments"
 }

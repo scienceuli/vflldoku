@@ -171,7 +171,7 @@ Ist die Umfrage abgeschlossen, kann das Ergebnis veröffentlicht werden. Es ersc
 
 ## Zoom Meetings
 
-siehe [[zoom]]
+siehe [[zoom|Der Zoom-Kalender im KollTool]]
 
 
 

@@ -1,17 +1,16 @@
 # KollTool Dokumentation
 
-Die Dokumentation von Mkdocs findet sich hier:
- [mkdocs.org](https://www.mkdocs.org) .
+Diese Dokumentation beschreibt die einzelnen Apps von KollTool, der Kollaborationsplattfoorm des VFLL. 
 
-## Apps
+Die Navigation auf der linken Seite ist nach den Apps gegliedert.
 
-* [Teams](teams.md)
-* [Aufgaben](aufgaben.md)
-* [Dokumente und Verzeichnisse](documents.md)
-* [Nextcloud-Anbindung](nextcloud.md)
-* [Umfragen](polls.md)
-* [Meetings (BigBlueButton)](bbb.md)
-* [Meetings (Zoom)](zoom.md)
+Die Navigation auf der rechten Seite zeigt das Inhaltsverzeichnis innerhalb der jeweiligen App.
+
+Das Github-Repository dieser Dokumentation ist [hier](https://github.com/scienceuli/vflldoku) zu finden.
+
+Für die Konvertierung der Markdown-Dateien wird [Mkdocs](https://www.mkdocs.org/) eingesetzt.
+
+Die Dokumentation wird auf https://vercel.com/ veröffentlicht.
 
 
 

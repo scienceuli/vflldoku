@@ -1,0 +1,17 @@
+[1740917713.433][INFO ][mkdocs/commands/serve.py:62] Building documentation...
+[1740917713.455][INFO ][mkdocs/commands/build.py:271] Cleaning site directory
+[1740917713.495][INFO ][mkdocs_publisher/obsidian/plugin.py:93] Parsing backlinks
+[1740917713.727][INFO ][mkdocs_publisher/minifier/plugin.py:61] Threads used for minifiers: 8
+[1740917713.729][INFO ][mkdocs/commands/build.py:353] Documentation built in 0.30 seconds
+[1740917713.733][INFO ][mkdocs/livereload/__init__.py:180] Watching paths for changes: 'mkdocs.yml', 'docs'
+[1740917713.733][INFO ][mkdocs/livereload/__init__.py:185] Serving on http://127.0.0.1:8000/
+[1740917757.191][INFO ][mkdocs/livereload/__init__.py:344] Browser connected: http://127.0.0.1:8000/
+[1740917760.993][INFO ][mkdocs/livereload/__init__.py:344] Browser connected: http://127.0.0.1:8000/zoom/
+[1740917804.076][INFO ][mkdocs/livereload/__init__.py:344] Browser connected: http://127.0.0.1:8000/bbb/
+[1740917816.240][INFO ][mkdocs/livereload/__init__.py:344] Browser connected: http://127.0.0.1:8000/zoom/
+[1740917821.399][INFO ][mkdocs/livereload/__init__.py:344] Browser connected: http://127.0.0.1:8000/
+[1740917854.998][INFO ][mkdocs/commands/serve.py:106] Shutting down...
+[1740917855.247][INFO ][mkdocs_publisher/debugger/plugin.py:105] Platform: macOS-14.1.1-arm64-arm-64bit
+[1740917855.248][INFO ][mkdocs_publisher/debugger/plugin.py:106] Python version: 3.12.0 (using virtual environment: true)
+[1740917855.248][INFO ][mkdocs_publisher/debugger/plugin.py:110] Build log file: /Users/scienceuli/Devel/vflldoku/20250302_121513_mkdocs_build.log
+[1740917855.640][INFO ][mkdocs_publisher/debugger/plugin.py:143] Debugger ZIP file: 20250302_121513_mkdocs_debug.zip

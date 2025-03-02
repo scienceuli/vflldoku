@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Der Zoom-Kalender im KollTool
 
 Zu finden ist der Zoom-Kalender unter Meetings:
@@ -41,4 +45,6 @@ vergessen.
 
 ## Informationen zum Zoom-Zugang
 
-Im Verzeichnis „Offene Gruppe" findet sich das Dokument „*1 Zoom-Zugang*“ mit allen erforderlichen Informationen.
+Im Verzeichnis „Offene Gruppe" findet sich das [[documents|Dokument]] „*1 Zoom-Zugang*“ mit allen erforderlichen Informationen.
+
+
